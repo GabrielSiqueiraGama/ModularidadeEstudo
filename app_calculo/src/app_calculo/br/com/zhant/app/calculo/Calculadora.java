@@ -11,5 +11,6 @@ public class Calculadora {
 		Logger.info("Somando...");
 		return opAritmeticas.soma(nums);
 	}
+
 	
 }
